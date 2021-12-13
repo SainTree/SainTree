@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SainTree
-- 👀 I’m interested in aerodynamics and aeroacoustics of airfoils and open rotors
+- 👀 I’m interested in aerodynamic and aeroacoustic performance of airfoils and open rotors
 - 🌱 I’m currently learning the coding of noise prediction methods of propellers
 - 💞️ I’m looking to collaborate on the mechanisms of turbulent flow and flow-induced noise
 - 📫 How to reach me: saintree@outlook.com
